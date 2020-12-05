@@ -1,0 +1,15 @@
+{
+  "name": "blog-scraper",
+  "version": "1.0.0",
+  "description": "web scrapping for blog posts ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Dano <mk.dano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
